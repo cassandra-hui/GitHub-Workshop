@@ -15,7 +15,7 @@ A Nevada Bioinformatics Core workshop on GitHub for beginners. This workshop is 
 
 ## Workshop Description
 
-This introductory workshop provides a step-by-step guide to using GitHub online and with the GitHub Desktop GUI. It is aimed at academics and students who want to learn how to collaborate on projects, host course materials, and build a professional online presence. Participants will gain practical skills for using GitHub as a version control tool and will leave the workshop with a working personal GitHub.io website.
+This introductory workshop provides a step-by-step guide to using GitHub online and with the GitHub Desktop GUI. It is aimed at academics and students who want to learn how to collaborate on projects, host course materials, and build a professional online presence. Participants will gain practical skills for using GitHub as a version control tool and leave the workshop with a working personal GitHub.io website.
 
 ## Workshop Outline
 
@@ -33,31 +33,26 @@ This introductory workshop provides a step-by-step guide to using GitHub online 
 3. **Cloning Repositories and Updating with GitHub Desktop GUI (1 hour)**
    - Introduction to cloning and updating on your local computer.
    - Using Push and Pull
-   - Using forks to create personal copies of repositories.
-   - Hands-on activity: Students fork a repository and view files.
-
-4. **Q&A and Wrap-Up for Day 1 (30 minutes)**
+   - Hands-on: Clone your repository and work on your local computer.
+  
+4. **Q&A and Wrap-Up for Day 1 (10 minutes)**
    - Open floor for questions.
-   - Discuss next sessions' content.
+   - Discuss the next sessions' content.
 
-### Day 2: Collaboration and Personal Websites (3 hours)
-1. **Recap and Review (10 minutes)**
-   - Quick recap of Day 1.
-   - Address any questions or areas needing more explanation.
-
+### Day 2: Collaboration and Personal Websites (2.5 hours)
+1. **Recap and Review (15 minutes)**
+   - Quick recap of Day 1
+   
 2. **Introduction to Collaboration (45 minutes)**
    - Collaborating with pull/push requests.
    - Hands-on activity: Collaborating with another participant and resolving a conflict.
 
-3. **Creating a GitHub.io Personal Website (1 hour)**
+3. **Creating a GitHub.io Personal Website (1.5 hours)**
    - Introduction to GitHub Pages: turning repositories into static websites.
    - Demonstration of HTML and templates.
-   - Hands-on activity: Setting up a GitHub Pages repository (`username.github.io`).
-   - Publishing a basic personal website using a template.
+   - Using forks to create personal copies of repositories.
+   - Hands-on activity: Publish a GitHub Pages website (`username.github.io`).
 
-4. **Next Steps (45 minutes)**
-   - Tips for maintaining and expanding personal GitHub portfolios.
-   - Q&A, workshop wrap-up, and suggestions for further learning.
 
 ## Learning Objectives
 - Understand the purpose and basic concepts of version control using GitHub.
@@ -66,7 +61,7 @@ This introductory workshop provides a step-by-step guide to using GitHub online 
 - Set up a personal website using GitHub Pages.
 
 ## Prerequisites
-No prior experience with GitHub is required. During the workshop, participants will set up a basic GitHub account (free to create) and (optional and also free) instal GitHub Desktop for local cloning.
+No prior experience with GitHub is required. During the workshop, participants will set up a basic GitHub account (free to create) and (optional and also free) install GitHub Desktop for local cloning.
 
 ## Materials Needed
 - A computer with internet access.
