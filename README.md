@@ -41,9 +41,8 @@ This introductory workshop provides a step-by-step guide to using GitHub online 
 
 ### Day 2: Collaboration and Personal Websites (2.5 hours)
 1. **Recap and Review (15 minutes)**
-   - Quick recap of Day 1.
-   - Address any questions or areas needing more explanation.
-
+   - Quick recap of Day 1
+   
 2. **Introduction to Collaboration (45 minutes)**
    - Collaborating with pull/push requests.
    - Hands-on activity: Collaborating with another participant and resolving a conflict.
@@ -52,9 +51,7 @@ This introductory workshop provides a step-by-step guide to using GitHub online 
    - Introduction to GitHub Pages: turning repositories into static websites.
    - Demonstration of HTML and templates.
    - Using forks to create personal copies of repositories.
-   - Hands-on activity: Students fork a repository and view files.
-   - Hands-on activity: Setting up a GitHub Pages repository (`username.github.io`).
-   - Publishing a basic personal website using a template.
+   - Hands-on activity: Publish a GitHub Pages website (`username.github.io`).
 
 
 ## Learning Objectives
