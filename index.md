@@ -22,5 +22,7 @@ Throughout the workshop, you will learn how to:
 
 ---
 
+[Contact Me](contact.md)
+
 Happy coding! 🚀
 
