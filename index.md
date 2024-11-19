@@ -22,5 +22,5 @@ Throughout the workshop, you will learn how to:
 
 ---
 
-Happy coding! :rocket:
+Happy coding! 🚀
 
