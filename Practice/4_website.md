@@ -9,7 +9,7 @@
 ## Step 2: Clone Your Forked Repository to Your Computer
 
 1. Open **GitHub Desktop**.
-2. Click **File** > **Clone Repository**.
+2. Click on your current Repositoy (top left) > **Add** > **Clone Repository...**.
 3. Select the repository you just forked from the list of repositories available to you.
 4. Choose a local directory where you'd like to store the repository, and click **Clone**.
 5. Select the **Use for my own purposes** option. 
@@ -21,7 +21,13 @@
 3. Set the repository to **Public** and click **Create repository**.
 4. Clone this new repository to your local machine using **GitHub Desktop** the same way you did in Step 2.
 
-## Step 4: Copy the Website Template
+## Step 4: Edit README.md
+
+1. Open the `README_Template.md` from the forked **GitHub Workshop** folder.
+2. Copy the tempate and add the content to your `README.md` file in your **username.github.io** folder.
+3. Edit the `README.md` to fit your page. 
+
+## Step 5: Copy the Website Template
 
 1. On your computer, open the cloned folder for the GitHub Pages repository (`username.github.io`).
 2. In another window, open the folder for the cloned **GitHub-Workshop** repository.
@@ -29,7 +35,7 @@
 4. Copy all the files (e.g., `index.html`, `about.html`, `style.css`, `script.js`, images) from the **Website Template** folder.
 5. Paste these files into the cloned folder for your GitHub Pages repository.
 
-## Step 5: Edit the Website Template
+## Step 6: Edit the Website Template
 
 Now you’ll edit the template to personalize your website.
 
@@ -65,7 +71,7 @@ Now you’ll edit the template to personalize your website.
 
 6. Save your changes to `index.html` and `style.css`.
 
-## Step 6: Publish Your GitHub Pages Website
+## Step 7: Publish Your GitHub Pages Website
 
 1. After editing the files, save your changes.
 2. In **GitHub Desktop**, go to your **username.github.io** repository and you should see the modified files listed under **Changes**.
