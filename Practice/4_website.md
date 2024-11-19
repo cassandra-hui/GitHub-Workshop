@@ -12,6 +12,7 @@
 2. Click **File** > **Clone Repository**.
 3. Select the repository you just forked from the list of repositories available to you.
 4. Choose a local directory where you'd like to store the repository, and click **Clone**.
+5. Select the **Use for my own purposes** option. 
 
 ## Step 3: Create Your GitHub Pages Repository
 
