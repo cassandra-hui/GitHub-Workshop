@@ -33,7 +33,7 @@
 2. In another window, open the folder for the cloned **GitHub-Workshop** repository.
 3. Navigate to the **Templates/Website Template** folder in the **GitHub-Workshop** repository.
 4. Copy all the files (e.g., `index.html`, `about.html`, `style.css`, `script.js`, images) from the **Website Template** folder.
-5. Paste these files into the cloned folder for your GitHub Pages repository.
+5. Paste these files and images folder into the cloned folder for your GitHub Pages repository.
 
 ## Step 6: Edit the Website Template
 
