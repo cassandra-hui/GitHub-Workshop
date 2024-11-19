@@ -61,6 +61,13 @@ Provide instructions and examples for using your project. For example:
 python script.py --input example.txt
 ```
 
+Or:
+
+```r
+devtools::install_github("cassandra-hui/circR")
+library(circR)
+```
+
 If the project has a GUI or web interface, add screenshots or GIFs to demonstrate usage.
 
 Here is an image: 
