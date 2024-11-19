@@ -19,39 +19,42 @@ This introductory workshop provides a step-by-step guide to using GitHub online 
 
 ## Workshop Outline
 
-### Day 1: GitHub Basics (3 hours)
-1. **Introduction to Version Control and GitHub (30 minutes)**
+### Day 1: GitHub Basics (2.5 hours)
+1. **Introduction to Version Control and GitHub (20 minutes)**
    - Overview of version control and Git.
    - GitHub: navigating, viewing files, and understanding a README.md file.
    - Key terms: repository, commit, clone, GitHub Pages.
 
-2. **Creating and Updating a Repository Online (1 hour)**
+2. **Creating and Updating a Repository Online (20 Minutes)**
    - What is a repository, and how to navigate one?
    - Hands-on activity: Setting up a repository.
    - Adding materials (README.md, codes, files) and making commits.
 
-3. **Cloning Repositories and Updating with GitHub Desktop GUI (1 hour)**
+3. **Cloning Repositories and Updating with GitHub Desktop GUI (30 Minutes)**
    - Introduction to cloning and updating on your local computer.
    - Using Push and Pull
    - Hands-on: Clone your repository and work on your local computer.
+
+4. **Introduction to Collaboration (45 minutes)**
+   - Collaborating with pull/push requests.
+   - Hands-on activity: Collaborating with another participant and resolving a conflict.
+
   
-4. **Q&A and Wrap-Up for Day 1 (10 minutes)**
+5. **Q&A and Wrap-Up for Day 1 (10 minutes)**
    - Open floor for questions.
    - Discuss the next sessions' content.
 
 ### Day 2: Collaboration and Personal Websites (2.5 hours)
-1. **Recap and Review (15 minutes)**
+1. **Recap and Review (10 minutes)**
    - Quick recap of Day 1
-   
-2. **Introduction to Collaboration (45 minutes)**
-   - Collaborating with pull/push requests.
-   - Hands-on activity: Collaborating with another participant and resolving a conflict.
 
-3. **Creating a GitHub.io Personal Website (1.5 hours)**
+2. **Creating a GitHub.io Personal Website (1.5 hours)**
    - Introduction to GitHub Pages: turning repositories into static websites.
    - Demonstration of HTML and templates.
    - Using forks to create personal copies of repositories.
    - Hands-on activity: Publish a GitHub Pages website (`username.github.io`).
+
+3. Others: markdown? projects? guihub pages?
 
 
 ## Learning Objectives
