@@ -1,41 +1,38 @@
 
-# Forking, Cloning, and Creating a GitHub Pages Site
+# Cloning and Creating a GitHub Pages Site
 
-## Step 1: Fork the Repository
+## Step 1: Cloning the Repository
 
 1. Go to the following repository: [Cassandra's GitHub Workshop](https://github.com/cassandra-hui/GitHub-Workshop.git).
-2. In the top-right corner, click the **Fork** button. This will create a copy of the repository in your own GitHub account.
+2. Click the **Code** button (green button) you can copy the repository URL under the HTTPS option and manually enter it or click on **Open with GitHub Desktop**.
+3. Check the **Local Path** location is where you want the new file to be located.
+4. Click **Clone**.
 
-## Step 2: Clone Your Forked Repository to Your Computer
+You now have a local copy of the workshop's repository. 
 
-1. Open **GitHub Desktop**.
-2. Click on your current Repositoy (top left) > **Add** > **Clone Repository...**.
-3. Select the repository you just forked from the list of repositories available to you. If it is still not showing navigate to the respository you just created under your username and click **Code** > **Open in GitHub Desktop**.
-4. Choose a local directory where you'd like to store the repository, and click **Clone**.
-5. Select the **Use for my own purposes** option. 
-
-## Step 3: Create Your GitHub Pages Repository
+## Step 2: Create Your GitHub Pages Repository
 
 1. Go to your GitHub profile and click the **+** button in the top-right corner, then select **New repository**.
-2. Name the repository as **username.github.io**, replacing "username" with your GitHub username (e.g., `johnDoe.github.io`).
+2. Name the repository as **username.github.io**, replacing "username" with your GitHub username (e.g., `johnDoe.github.io`). You must use your GitHub profiles's username.
 3. Set the repository to **Public** and click **Create repository**.
-4. Clone this new repository to your local machine using **GitHub Desktop** the same way you did in Step 2.
+4. Clone this new repository to your local machine using **GitHub Desktop** the same way you did in Step 1.
 
-## Step 4: Edit README.md
+## Step 3: Initialize the Respositry by Adding a README.md
 
 1. Open the `README_Template.md` from the forked **GitHub Workshop** folder.
-2. Copy the tempate and add the content to your `README.md` file in your **username.github.io** folder.
-3. Edit the `README.md` to fit your page. 
+2. Copy the tempate and add the content to a `README.md` file in your **username.github.io** folder.
+3. Make your first **Commit**.
+4. Optional: Edit the `README.md` to fit your page. You can always do this later. Keep this template for future repositories you create.
 
-## Step 5: Copy the Website Template
+## Step 4: Copy the Website Template
 
 1. On your computer, open the cloned folder for the GitHub Pages repository (`username.github.io`).
 2. In another window, open the folder for the cloned **GitHub-Workshop** repository.
 3. Navigate to the **Templates/Website Template** folder in the **GitHub-Workshop** repository.
 4. Copy all the files (e.g., `index.html`, `about.html`, `style.css`, `script.js`, images) from the **Website Template** folder.
-5. Paste these files and images folder into the cloned folder for your GitHub Pages repository.
+5. Paste these files into the cloned folder for your GitHub Pages repository.
 
-## Step 6: Edit the Website Template
+## Step 5: Edit the Website Template
 
 Now you’ll edit the template to personalize your website.
 
@@ -82,4 +79,4 @@ Now you’ll edit the template to personalize your website.
 
 ## Done!
 
-You've successfully forked a repository, cloned it to your computer, created a GitHub Pages site, copied over a website template, personalized the information, and published your site online.
+You've successfully created a GitHub Pages site and published your site online.
