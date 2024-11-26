@@ -64,11 +64,18 @@ This guide will walk you through creating a branch on GitHub.com, cloning it to 
 
 ## Step 8: Merge the Branch into the Main Branch
 
+You should see a new `Compare & pull request` button. You can click that and move on to step 4. Or start from the begining.
+
+![compare & pull request](images/pull.png)
+
 1. On GitHub.com, go to the **Pull requests** tab in your repository.
 2. Click **New pull request**.
 3. Select the `main` branch as the base and the `new-feature` branch as the compare branch.
 4. Review the changes, then click **Create pull request**.
-5. Add a description of your changes, then click **Merge pull request**.
+5. This should bring you to a comparison of the branches:
+![compare & pull request](images/merge.png)
+Click on `Files changed` to view the differences between branches.
+5. Go back to `Conversation` and add a description of your changes, then click **Merge pull request**.
 6. Confirm the merge when prompted.
 
 ---
@@ -76,7 +83,8 @@ This guide will walk you through creating a branch on GitHub.com, cloning it to 
 ## Step 9: Delete the Branch
 
 1. After merging the branch, you can delete it on GitHub.com:
-   - On the pull request page, click the **Delete branch** button.
+   - On the code page, click the **Branch** button.
+   - All of your branches will be listed. Click on 🗑️ to delete the branch. 
 2. Alternatively, delete the branch in **GitHub Desktop**:
    - Click the **Current Branch** button.
    - Select **Manage Branches**.
