@@ -74,4 +74,4 @@ No prior experience with GitHub is required. During the workshop, participants w
 ## Resources
 - [GitHub Documentation](https://docs.github.com/): Official GitHub documentation for further learning.
 - [Pro Git Book](https://git-scm.com/book/en/v2): A comprehensive book on Git.
-
+- [GitHub Online Skills Tutorials](https://github.com/skills): Hands-on GitHub skills training.
