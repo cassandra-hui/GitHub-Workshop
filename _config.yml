@@ -10,8 +10,8 @@ author: "Your Name"
 description: "An introductory workshop on using GitHub"
 
 # Theme (optional, if you want to use a Jekyll theme)
-# You can replace 'minima' with any supported theme.
-theme: minima
+# Uncomment the line below and replace 'minima' with any supported theme.
+# theme: minima
 
 # Exclude files and directories from the site build
 exclude:
