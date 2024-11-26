@@ -79,7 +79,6 @@ This guide will walk you through creating a branch on GitHub.com, cloning it to 
    - On the pull request page, click the **Delete branch** button.
 2. Alternatively, delete the branch in **GitHub Desktop**:
    - Click the **Current Branch** button.
-   - Select **Manage Branches**.
    - Right-click the `new-feature` branch and select **Delete**.
 
 ---
