@@ -8,16 +8,24 @@ This guide will walk you through creating a branch on GitHub.com, cloning it to 
 
 1. Go to your repository on [GitHub.com](https://github.com).
 2. Click the **Branch** dropdown menu near the top left (next to the default branch, usually `main`).
+
+<img src="images/branch.png" alt="Description" width="400" style="padding:10px 20px 15px 5px;">
+
 3. Type a name for your new branch (e.g., `new-feature`).
-4. Press **Enter** to create the branch.
+4. Click **Create branch new-feature from main** to create the branch.
+
+<img src="images/createnew.png" alt="Description" width="400" style="padding:10px 20px 15px 5px;">
+
 5. Make sure your new branch is selected (you’ll see it displayed next to the branch dropdown).
+
+<img src="images/newfeat.png" alt="Description" width="300" style="padding:10px 20px 15px 5px;">
 
 ---
 
 ## Step 2: Clone the Repository in GitHub Desktop
 
 1. Open **GitHub Desktop**.
-2. If the repository is not already cloned, click **File > Clone Repository** and select your repository from the list.
+2. If the repository is **not** already cloned, click **File > Clone Repository** and select your repository from the list.
 3. If it’s already cloned, make sure it’s selected from the repository dropdown at the top.
 
 ---
@@ -27,6 +35,9 @@ This guide will walk you through creating a branch on GitHub.com, cloning it to 
 1. In GitHub Desktop, click the **Current Branch** button in the top middle of the window.
 2. Select the new branch you created (e.g., `new-feature`) from the list.
    - If the branch is not listed, click **Fetch Origin** to sync your local repository with GitHub.
+
+<img src="images/branchgd.png" alt="Description" width="500" style="padding:10px 20px 15px 5px;">
+
 3. You are now working on the new branch.
 
 ---
@@ -58,7 +69,7 @@ This guide will walk you through creating a branch on GitHub.com, cloning it to 
 
 1. Go to your repository on GitHub.com.
 2. Switch to the `new-feature` branch using the branch dropdown.
-3. Verify that the changes you made locally are reflected in the branch.
+3. Verify that the changes you made locally are reflected in the branch on GitHub.com.
 
 ---
 
@@ -71,11 +82,14 @@ You should see a new `Compare & pull request` button. You can click that and mov
 1. On GitHub.com, go to the **Pull requests** tab in your repository.
 2. Click **New pull request**.
 3. Select the `main` branch as the base and the `new-feature` branch as the compare branch.
-4. Review the changes, then click **Create pull request**.
+4. Review the changes at the bottom of the page, then click **Create pull request**.
+
+<img src="images/changesgh.png" alt="Description" width="500" style="padding:10px 20px 15px 5px;">
+
 5. This should bring you to a comparison of the branches:
 ![compare & pull request](images/merge.png)
 Click on `Files changed` to view the differences between branches.
-5. Go back to `Conversation` and add a description of your changes, then click **Merge pull request**.
+5. Go back to `Conversation` and click **Merge pull request**.
 6. Confirm the merge when prompted.
 
 ---
@@ -84,10 +98,18 @@ Click on `Files changed` to view the differences between branches.
 
 1. After merging the branch, you can delete it on GitHub.com:
    - On the code page, click the **Branch** button.
+
+<img src="images/branchbutton.png" alt="Description" width="200" style="padding:10px 20px 15px 5px;">
+
    - All of your branches will be listed. Click on 🗑️ to delete the branch. 
+
+<img src="images/deletebranch.png" alt="Description" width="500" style="padding:10px 20px 15px 5px;">
+
 2. Alternatively, delete the branch in **GitHub Desktop**:
    - Click the **Current Branch** button.
    - Right-click the `new-feature` branch and select **Delete**.
+
+<img src="images/deletegd.png" alt="Description" width="400" style="padding:10px 20px 15px 5px;">
 
 ---
 
@@ -95,5 +117,3 @@ Click on `Files changed` to view the differences between branches.
 
 You’ve successfully created a branch on GitHub, worked on it locally using GitHub Desktop, and pushed your changes back to GitHub.
 
-**Next Steps:**
-- Repeat this process for new features or bug fixes to keep your repository organized and your main branch stable.

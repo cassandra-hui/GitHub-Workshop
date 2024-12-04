@@ -13,6 +13,9 @@
 ## Step 2: Create a New Repository
 
 1. After logging in, click the **+** icon in the top-right corner and select **New repository**.
+
+![new](images/new.png)
+
 2. Fill in the details:
    - **Repository Name**: Choose a name for your repository (e.g., `my-first-repo`).
    - **Description** (optional): Add a description of your project.
@@ -38,6 +41,9 @@
 
 1. Go to your repository’s main page.
 2. Click the **Add file** button near the top-right corner and select **Create new file**.
+
+![file](images/file.png)
+
 3. Enter a name for your file (e.g., `example.txt`).
 4. In the text editor below, add content to the file. For example:
     ```markdown

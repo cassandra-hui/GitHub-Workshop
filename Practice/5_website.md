@@ -19,24 +19,28 @@ You now have a local copy of the workshop's repository.
 
 ## Step 3: Initialize the Respositry by Adding a README.md
 
-1. Open the `README_Template.md` from the forked **GitHub Workshop** folder.
+1. Open the `README_Template.md` from Cassandra's clonded **GitHub Workshop** folder.
 2. Copy the tempate and add the content to a `README.md` file in your **username.github.io** folder.
 3. Make your first **Commit**.
-4. Optional: Edit the `README.md` to fit your page. You can always do this later. Keep this template for future repositories you create.
+4. Optional: Edit the `README.md` to fit your page. You can also do this later. Keep this template for future repositories you create.
 
 ## Step 4: Copy the Website Template
 
 1. On your computer, open the cloned folder for the GitHub Pages repository (`username.github.io`).
-2. In another window, open the folder for the cloned **GitHub-Workshop** repository.
-3. Navigate to the **Templates/Website Template** folder in the **GitHub-Workshop** repository.
+2. In another window, open the folder for the cloned **GitHub Workshop** repository.
+3. Navigate to the **Templates/Website Template** folder in the **GitHub Workshop** repository.
 4. Copy all the files (e.g., `index.html`, `about.html`, `style.css`, `script.js`, images) from the **Website Template** folder.
 5. Paste these files into the cloned folder for your GitHub Pages repository.
+6. In this folder, open `index.html` with your defualt internet browser to see what the page currently looks like.
 
 ## Step 5: Edit the Website Template
 
 Now you’ll edit the template to personalize your website.
 
 1. Open the `index.html` file in a text editor.
+
+<img src="images/hero.png" alt="Description" width="300" style="padding:10px 20px 15px 5px;">
+
 2. Replace `NAME` and `TITLE` in the hero section with your own name and title. For example:
     ```html
     <h1>John Doe</h1>
@@ -47,13 +51,15 @@ Now you’ll edit the template to personalize your website.
     <p>This is a paragraph about me!</p>
     <p>This is another paragraph about me!</p>
     ```
+<img src="images/main.png" alt="Description" width="400" style="padding:10px 20px 15px 5px;">
+
 4. Add links to any projects or content you'd like to showcase.
 
 ### Changing the Images
 
 5. To change the profile picture or other images in your template:
    1. Replace the existing image file(s) in your repository (e.g., `me.jpg` or `unr.jpg`) with your own image files. Make sure the new images have the same file name as the originals, or update the file paths in `index.html` accordingly.
-   2. If you want to change the profile picture, locate the following part of the `index.html` file:
+   2. If you want to change the profile picture, locate the following part of the `index.html` file (you can use **Find**):
        ```html
        <img src="me.jpg" alt="Image of Me">
        ```
