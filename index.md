@@ -6,7 +6,7 @@ This GitHub Workshop is designed to introduce you to the basics of using GitHub 
 - Setting up a GitHub account
 - Creating repositories and managing files
 - Collaborating with others
-- Forking and cloning repositories
+- Branching 
 - Building a portfolio using GitHub Pages
 
 ## Workshop Activities
@@ -22,7 +22,27 @@ Throughout the workshop, you will learn how to:
 
 ---
 
-[Contact Me](contact.md)
+## Workshop Outline
+
+### Day 1: GitHub Basics (2.5 hours)
+1. **Introduction to Version Control and GitHub [(Slides)](Day_1.pptx)**
+   - Overview of version control and Git.
+   - GitHub: navigating, viewing files, and understanding a README.md file.
+   - Key terms: repository, commit, clone, GitHub Pages.
+
+2. **Creating and Updating a Repository Online**
+   - What is a repository, and how to navigate one?
+   - [Hands-on activity](Practice/1_setup.md): Setting up a repository.
+   - Adding materials (README.md, codes, files) and making commits.
+
+3. **Cloning Repositories and Updating with GitHub Desktop GUI**
+   - Introduction to cloning and updating on your local computer.
+   - Using Push and Pull
+   - [Hands-on](Practice/2_cloning.md): Clone your repository and work on your local computer.
+
+4. **Introduction to Collaboration**
+   - Collaborating with pull/push requests.
+   - [Hands-on activity](Practice/3_collaborate.md): Collaborating with another participant and resolving a conflict.
 
 Happy coding! 🚀
 
