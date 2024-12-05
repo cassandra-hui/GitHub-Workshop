@@ -119,3 +119,7 @@
 ## Done!
 
 Both students have successfully collaborated on the repository, resolved a conflict, and synced their changes using GitHub Desktop and GitHub.com.
+
+
+### For Self-Paced Users
+Return to [Homepage](../index.md).

@@ -86,3 +86,7 @@ Now you’ll edit the template to personalize your website.
 ## Done!
 
 You've successfully created a GitHub Pages site and published your site online.
+
+
+### For Self-Paced Users
+Return to [Homepage](../index.md).

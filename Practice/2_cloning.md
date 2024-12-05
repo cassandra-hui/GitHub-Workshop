@@ -66,3 +66,6 @@
 ## Done!
 
 You have successfully downloaded and set up GitHub Desktop, and cloned your GitHub repository to your personal computer. Now you can start working on your repository locally and sync changes with GitHub.
+
+### For Self-Paced Users
+Return to [Homepage](../index.md).

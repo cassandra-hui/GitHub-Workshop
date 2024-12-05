@@ -63,3 +63,6 @@
 ## Done!
 
 You've successfully added a new file to your GitHub repository.
+
+### For Self-Paced Users
+Return to [Homepage](../index.md).

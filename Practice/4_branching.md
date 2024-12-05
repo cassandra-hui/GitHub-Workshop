@@ -117,3 +117,6 @@ Click on `Files changed` to view the differences between branches.
 
 You’ve successfully created a branch on GitHub, worked on it locally using GitHub Desktop, and pushed your changes back to GitHub.
 
+
+### For Self-Paced Users
+Return to [Homepage](../index.md).
