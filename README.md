@@ -5,8 +5,8 @@ A Nevada Bioinformatics Core workshop on GitHub for beginners. This workshop is 
 ## Table of Contents
 1. [Workshop Description](#workshop-description)
 2. [Workshop Outline](#workshop-outline)
-   - [Day 1: GitHub Basics (3-4 hours)](#day-1-github-basics-3-4-hours)
-   - [Day 2: Collaboration and Personal Websites (3-4 hours)](#day-2-collaboration-and-personal-websites-3-4-hours)
+   - [Day 1: GitHub Basics](#day-1-github-basics)
+   - [Day 2: Branching and Personal Websites](#day-2-branching-and-personal-websites)
 3. [Learning Objectives](#learning-objectives)
 4. [Prerequisites](#prerequisites)
 5. [Materials Needed](#materials-needed)
@@ -19,42 +19,43 @@ This introductory workshop provides a step-by-step guide to using GitHub online 
 
 ## Workshop Outline
 
-### Day 1: GitHub Basics (2.5 hours)
-1. **Introduction to Version Control and GitHub (20 minutes)**
+### Day 1: GitHub Basics
+1. **Introduction to Version Control and GitHub**
    - Overview of version control and Git.
    - GitHub: navigating, viewing files, and understanding a README.md file.
    - Key terms: repository, commit, clone, GitHub Pages.
 
-2. **Creating and Updating a Repository Online (20 Minutes)**
+2. **Creating and Updating a Repository Online**
    - What is a repository, and how to navigate one?
    - Hands-on activity: Setting up a repository.
    - Adding materials (README.md, codes, files) and making commits.
 
-3. **Cloning Repositories and Updating with GitHub Desktop GUI (30 Minutes)**
+3. **Cloning Repositories and Updating with GitHub Desktop GUI**
    - Introduction to cloning and updating on your local computer.
    - Using Push and Pull
    - Hands-on: Clone your repository and work on your local computer.
 
-4. **Introduction to Collaboration (45 minutes)**
+4. **Introduction to Collaboration**
    - Collaborating with pull/push requests.
    - Hands-on activity: Collaborating with another participant and resolving a conflict.
 
-  
-5. **Q&A and Wrap-Up for Day 1 (10 minutes)**
+5. **Q&A and Wrap-Up for Day 1**
    - Open floor for questions.
    - Discuss the next sessions' content.
 
-### Day 2: Collaboration and Personal Websites (2.5 hours)
-1. **Recap and Review (10 minutes)**
+### Day 2: Branching and Personal Websites
+1. **Recap and Review**
    - Quick recap of Day 1
 
-2. **Creating a GitHub.io Personal Website (1.5 hours)**
+2. **Introduction to Branching**
+   - What is branching?
+   - How to use branching.
+   - Hands-on activity: Branching.
+
+3. **Creating a GitHub.io Personal Website**
    - Introduction to GitHub Pages: turning repositories into static websites.
    - Demonstration of HTML and templates.
-   - Using forks to create personal copies of repositories.
    - Hands-on activity: Publish a GitHub Pages website (`username.github.io`).
-
-3. Others: markdown? projects? guihub pages?
 
 
 ## Learning Objectives
@@ -64,12 +65,12 @@ This introductory workshop provides a step-by-step guide to using GitHub online 
 - Set up a personal website using GitHub Pages.
 
 ## Prerequisites
-No prior experience with GitHub is required. During the workshop, participants will set up a basic GitHub account (free to create) and (optional and also free) install GitHub Desktop for local cloning.
+No prior experience with GitHub is required. During the workshop, participants will set up a basic GitHub account (free to create) and install GitHub Desktop (also free)for local cloning.
 
 ## Materials Needed
 - A computer with internet access.
 - A GitHub account ([sign up for free](https://github.com/)).
-- (Optional) GitHub Desktop installed for local GUI activities ([Download here](https://desktop.github.com/)).
+- GitHub Desktop installed for local GUI activities ([Download here](https://desktop.github.com/)).
 
 ## Resources
 - [GitHub Documentation](https://docs.github.com/): Official GitHub documentation for further learning.
